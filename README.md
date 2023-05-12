@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/School-42-black)
 
 <p align=center>
-  <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minitalkm.png"/>
+  <img width="200" height="200" src="https://github.com/byaliego/42-project-badges/blob/main/badges/minitalkm.png"/>
 </p>
 <p align="center">
  <img src="https://img.shields.io/badge/Puntuation-125%2F100-brightgreen">
