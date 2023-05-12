@@ -30,6 +30,5 @@ The project is designed to test the student's understanding of **low-level syste
 
 ## Documentation
 
-* [How to create functions with a variable number of arguments](https://www.https://www.youtube.com/watch?v=3iX9a_l9W9Y)
 * Peer to Peer
 * [ChatGPT](https://chat.openai.com/)
